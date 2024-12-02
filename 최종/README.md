@@ -1,4 +1,4 @@
-# 👍 결과
+# ⭐ 결과
 
 ![GUI개선 (6)](https://github.com/user-attachments/assets/ba067074-867c-4202-b63f-6f6a4e74e24b)
 ![GUI개선 (5)](https://github.com/user-attachments/assets/17808105-9b33-4cbe-a6ba-ba2ada95714c)
