@@ -1,1 +1,23 @@
 # 🌳 ACK 2024 10월 학술대회 : 딥러닝기반 수목 특성 분석
+
+
+![슬라이드1](https://github.com/user-attachments/assets/1981e42f-bb52-4483-b0a2-b6d3d5e23aee)
+![슬라이드2](https://github.com/user-attachments/assets/6139172f-e43c-4895-8dc5-f7801483ac28)
+![슬라이드3](https://github.com/user-attachments/assets/04064111-ad7c-46c2-9722-be2adf3687c6)
+![슬라이드4](https://github.com/user-attachments/assets/31fbf529-629e-4f29-8402-056144212bd3)
+![슬라이드5](https://github.com/user-attachments/assets/c3894c93-3f1b-4c96-bf20-4c2dc947e0b7)
+![슬라이드6](https://github.com/user-attachments/assets/258c62fa-2105-443a-b0f1-8bf23dae0ba6)
+![슬라이드7](https://github.com/user-attachments/assets/307f7baf-ea9e-480a-857f-8deb0d8df8e4)
+![슬라이드8](https://github.com/user-attachments/assets/f1f7a638-c397-499a-9125-d5da8780a8b4)
+![슬라이드9](https://github.com/user-attachments/assets/69f90dff-a2ea-4275-9b8a-99d009acb01f)
+![슬라이드10](https://github.com/user-attachments/assets/01ba44e0-91e4-4c99-ae06-6ba2d7c329e4)
+![슬라이드11](https://github.com/user-attachments/assets/2682ae0e-72b4-4e32-9a7a-0589ba12e815)
+![슬라이드12](https://github.com/user-attachments/assets/5ede5fd4-72a9-4b36-ad3d-1edbb21de4c6)
+![슬라이드13](https://github.com/user-attachments/assets/5d643b2e-0042-4ce7-92a7-7d6ded2296f4)
+![슬라이드14](https://github.com/user-attachments/assets/57dc7d87-a216-4f22-b426-e1f463902de3)
+![슬라이드15](https://github.com/user-attachments/assets/ff720347-614c-4f98-b688-f5fd46e2fd9f)
+![슬라이드16](https://github.com/user-attachments/assets/59cbdd55-ed9c-439a-90af-625f95a2076c)
+![슬라이드17](https://github.com/user-attachments/assets/11d27ee0-8c29-418e-b0d8-7a557677da11)
+![슬라이드18](https://github.com/user-attachments/assets/4d9b8cd2-01ef-4eb8-8ae8-58c9baba1a08)
+![슬라이드19](https://github.com/user-attachments/assets/dc665c35-3f92-4d0b-91ad-57ee0e074994)
+![슬라이드20](https://github.com/user-attachments/assets/1473353b-a54a-4c94-a67d-16a3f1c3485d)
