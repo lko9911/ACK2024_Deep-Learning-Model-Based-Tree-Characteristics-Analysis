@@ -6,4 +6,10 @@
 ![스크린샷 2024-12-02 204929](https://github.com/user-attachments/assets/b615fcfd-cbc9-4675-a0f7-da71058fe5db)
 
 <h2> 2. 학습 플렛폼 </h2>
-<h3> VS Code 에서 진행하였으며, epoch = 100, batch_size = 8으로 진행 </h3> <br>
+<h3> VS Code 에서 진행하였으며, epoch = 100과 SGD로 진행 </h3> <br>
+
+<h2> 3. 학습 결과 </h2>
+
+![Figure_1](https://github.com/user-attachments/assets/d20e9b36-e816-4b91-ac25-179f1be2f77d)
+![Figure_1](https://github.com/user-attachments/assets/29367827-376b-413f-8d8f-cce62ab3c55e)
+![Figure_1](https://github.com/user-attachments/assets/27fba0d1-5c14-4a2f-a3ab-a1ee2842ec84)
